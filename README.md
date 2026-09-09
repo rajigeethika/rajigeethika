@@ -18,7 +18,7 @@
 - 🎓 **Final Year Student** specializing in Computer Science and Software Engineering.
 - 💻 Currently building **Hybrid AI architectures** and **Data Pipelines** combining local logic with LLMs.
 - 🌱 Actively diving deeper into **Deep Learning (PyTorch)**, **Cloud Deployment**, and **Backend Optimization**.
-- 📫 How to reach me: **[Add your LinkedIn URL or Email here]**
+- 📫 How to reach me: **https://github.com/rajigeethika**
 
 ---
 
